@@ -36,7 +36,8 @@
 		"ms-python.python",
 		"vscodevim.vim",
 		"mshr-h.veriloghdl",
-		"ms-azuretools.vscode-docker"
+		"ms-azuretools.vscode-docker",
+		"wavetrace.wavetrace"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
